@@ -1,0 +1,23 @@
+<resources>
+  <string name="app_name" translatable="false">Stock Hawk1</string>
+
+  <string name="action_example">Example action</string>
+
+  <string name="action_settings" translatable="false">Settings</string>
+  <string name="action_change_units">Change Units</string>
+  <string name="symbol_search">Symbol Search</string>
+  <string name="content_test">Search for a Stock Symbol</string>
+  <string name="input_hint" translatable="false">FB</string>
+  <string name="input_prefill"/>
+  <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+  <string name="periodic">Periodic</string>
+  <string name="stockStatus" translatable="false">StockStatus</string>
+  <string name="stock_detail_title">Stock</string>
+  <string name="empty_text" translatable="true">Stock data is not available!</string>
+  <string name="stock_not_found" translatable="true">This stock symbol is invalid!</string>
+  <string name="stock_already_saved" translatable="true">This stock is already saved!</string>
+  <string name="fab_button_content_description" translatable="true">Button to add new stock through its symbol.</string>
+  <string name="appwidget_text">EXAMPLE</string>
+  <string name="add_widget">Add widget</string>
+  <string name="stock_detail_tab_header" translatable="false">NASDAQ: %1$s</string>
+</resources>

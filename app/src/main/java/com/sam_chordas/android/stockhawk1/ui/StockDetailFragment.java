@@ -172,7 +172,7 @@ public class StockDetailFragment extends Fragment implements LoaderManager.Loade
             pointValues.add(pointValue);
 
             // Set labels for x-axis (we have to reduce its number to avoid overlapping text).
-            if (counter != 0 && counter % (data.getCount() / 4) == 0) {
+            if (counter != 0 && counter % (data.getCount() / 3) == 0) {
                 AxisValue axisValueX = new AxisValue(x);
                 axisValueX.setLabel(date);
                 axisValuesX.add(axisValueX);
